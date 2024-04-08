@@ -4,9 +4,9 @@ Os dados de votação no exterior da Rússia foram obtidos do site oficial da Co
 
 Neste projeto, iremos realizar as seguintes etapas:
 
-    Tradução dos dados do russo para o português.
-    Limpeza dos dados.
-    Visualização dos dados.
-    Conclusão.
+1. Tradução dos dados do russo para o português.
+2. Limpeza dos dados.
+3. Visualização dos dados.
+4. Conclusão.
 
 Os dados traduzidos estão disponíveis em https://bit.ly/3xAIyeQ.
